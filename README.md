@@ -12,7 +12,7 @@
 </div>
 
 
-<h1 align="center"> Hey <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif">, I'm <a href="https://emiliano.world">Emi!</a></h1>
+<h1 align="center"> Hey, My name is <a href="https://emiliano.world">Emi!</a> <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif"></h1>
 
 <p align="center"> 
 	<a href="https://www.linkedin.com/in/emiliano-rodriguez-1bb9b0261/">
