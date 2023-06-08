@@ -1,12 +1,12 @@
 <!--
-**Rodr1guezEmi/Rodr1guezEmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EmiRodr1guez/EmiRodr1guez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 -->
 <div align="center">
 <p align="center"> 
 
-![Profile views](https://komarev.com/ghpvc/?username=Rodr1guezEmi&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=EmiRodr1guez&style=flat-square)
 
 </p>
 </div>
@@ -26,8 +26,9 @@
 ## 🎨 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodr1guezEmi&show_icons=true&theme=radical" alt="Your Name's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmiRodr1guez&show_icons=true&theme=radical" alt="Your Name's GitHub Stats">
 </div>
+
 
 
 ## 🚀 My Portfolio
