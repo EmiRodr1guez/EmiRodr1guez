@@ -33,8 +33,8 @@
 
 ## 🚀 My Portfolio
 
-Although my code for my portfolio is not Public, feel free to check out my portfolio to learn a whole lot about me.
-With clean colors, and carefully selected palletes that I felt match my personality, I hope you learn a bit about me!
+Although the code for my portfolio is not Public, you can check out my portfolio to learn a lot about me.
+With clean colors and carefully selected palettes that I felt match my personality, I hope you learn a bit about me!
 
 - https://emiliano.world
 
