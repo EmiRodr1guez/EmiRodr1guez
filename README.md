@@ -23,7 +23,7 @@
 ## 🧠 What I'm currently working on:
 <a href="https://github.com/EmiRodr1guez/BankofEmirika">Bank of Emirika</a> An Over-Engineered bank account management system. Applying concepts from the Zero to Mastery Java course.
 
-<a href="https://github.com/EmiRodr1guez/The-Sequence-Of-Nature">The Sequence of Nature</a> A web-based application that analyzes and identifies frequency data (Hz) of songs. Front-End and Backend Development, Created in a team in Collaboration with
+<a href="https://github.com/EmiRodr1guez/The-Sequence-Of-Nature">The Sequence of Nature</a> A web-based application that analyzes and identifies frequency data (Hz) of songs. Front-End and Backend Development, In collaboration with another intern/Partner in crime: <a href="https://github.com/Esprij">@Esprij</a>
 
 ---
 
