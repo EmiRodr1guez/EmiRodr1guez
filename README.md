@@ -29,6 +29,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=EmiRodr1guez&show_icons=true&theme=radical" alt="Your Name's GitHub Stats">
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=EmiRodr1guez&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Your Name's GitHub Stats">
+</div>
+
 ## 🧠 What I'm currently working on:
 
 <a href= "https://github.com/EmiRodr1guez/BankofEmirika"> Bank of Emirika</a> - An Over-Engineered bank account management system. With each new concept I learn from the Zero to Mastery Java course, I apply it here to enhance my practical understanding.
