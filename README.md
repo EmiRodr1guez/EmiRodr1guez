@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=EmiRodr1guez&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Your Name's GitHub Stats">
+  <img src="https://streak-stats.demolab.com?user=EmiRodr1guez&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Your Name's GitHub Stats">
 </div>
 
 ## 🧠 What I'm currently working on:
