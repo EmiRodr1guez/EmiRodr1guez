@@ -1,17 +1,6 @@
 <!--
 **EmiRodr1guez/EmiRodr1guez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
--->
-<div align="center">
-<p align="center"> 
-
-![Profile views](https://komarev.com/ghpvc/?username=EmiRodr1guez&style=flat-square)
-
-</p>
-</div>
-
-
 <h1 align="center"> Hey, My name is <a href="https://emiliano.world">Emi!</a> <img width="30px" src="https://github.com/bsovs/bsovs/blob/main/assets/hi.gif"></h1>
 
 <p align="center"> 
