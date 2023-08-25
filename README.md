@@ -29,6 +29,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=EmiRodr1guez&show_icons=true&theme=radical" alt="Your Name's GitHub Stats">
 </div>
 
+## 🧠 What I'm currently working on:
+
+<a href= "https://github.com/EmiRodr1guez/BankofEmirika"> Bank of Emirika</a> - An Over-Engineered bank account management system. With each new concept I learn from the Zero to Mastery Java course, I apply it here to enhance my practical understanding.
+
+<a href= "https://github.com/EmiRodr1guez/The-Sequence-Of-Nature"> The Sequence of Nature </a> - A project on the side with my current Intern Partner. A web-based application that analyses and tells you what frequency data (Hz) a given/uploaded song is. Showcases Front-End and Backend Development.
+
+
+---
+
 
 
 ## 🚀 My Portfolio
