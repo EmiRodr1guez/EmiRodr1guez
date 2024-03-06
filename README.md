@@ -21,7 +21,7 @@
 </p>
 
 ## 🧠 What I'm currently working on:
-<a href="https://github.com/EmiRodr1guez/Timely">Timely</a> An 10-line script turned Full-stack project. Uses AWS and a MySQL server in order to handle users and punches. Made in Java and JavaFX.
+<a href="https://github.com/EmiRodr1guez/Timely">Timely</a> An 10-line script turned Full-stack project. Uses AWS and a MySQL server in order to handle users and punches. Made in Java and JavaFX in collaboration with <a href="https://github.com/demiurgets">Ian Mendoza</a>
 
 <a href="https://github.com/EmiRodr1guez/The-Sequence-Of-Nature">The Sequence of Nature</a> A web-based application that analyzes and identifies frequency data (Hz) of songs. Front-End and Backend Development, In collaboration with another intern/Partner in crime: <a href="https://github.com/Esprij">@Esprij</a>
 
