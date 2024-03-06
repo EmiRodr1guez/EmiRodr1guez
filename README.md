@@ -21,7 +21,7 @@
 </p>
 
 ## 🧠 What I'm currently working on:
-<a href="https://github.com/EmiRodr1guez/Timely">Timely</a> An Over-Engineered Punch in/Punch out sequence that utilizes features in Java and SQL to log clock in tasks. Uses SessionIDs to login to providide a seamless login.
+<a href="https://github.com/EmiRodr1guez/Timely">Timely</a> An 10-line script turned Full-stack project. Uses AWS and a MySQL server in order to handle users and punches. Made in Java and JavaFX.
 
 <a href="https://github.com/EmiRodr1guez/The-Sequence-Of-Nature">The Sequence of Nature</a> A web-based application that analyzes and identifies frequency data (Hz) of songs. Front-End and Backend Development, In collaboration with another intern/Partner in crime: <a href="https://github.com/Esprij">@Esprij</a>
 
