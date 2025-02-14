@@ -28,4 +28,4 @@
 
 ## 🚀 My Portfolio
 Although the code for my portfolio is not public, you can check it out to learn more about me. With carefully selected colors, I hope you'll get to know me better!
-- [https://emiliano.world](https://emiliano.world)
+- [https://emiliano.world](https://emirodriguez.tech)
